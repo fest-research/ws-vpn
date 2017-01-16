@@ -17,7 +17,7 @@
  */
 package vpn
 
-import loging "github.com/zreigz/ws-vpn/vpn/utils"
+import loging "github.com/fest-research/ws-vpn/vpn/utils"
 
 var logger = loging.GetLogger()
 

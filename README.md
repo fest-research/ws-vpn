@@ -21,7 +21,7 @@ ws-vpn --config client.ini
 
 ### Download
 
-You can get updated release from: https://github.com/zreigz/ws-vpn/releases
+You can get updated release from: https://github.com/fest-research/ws-vpn/releases
 
 ### Build and Install
 
@@ -30,7 +30,7 @@ Building ws-vpn needs Go 1.1 or higher.
 ws-vpn is a go-gettable package:
 
 ```
-go get github.com/zreigz/ws-vpn
+go get github.com/fest-research/ws-vpn
 ```
 
 ### Network forwarding

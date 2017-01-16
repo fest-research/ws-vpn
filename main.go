@@ -23,9 +23,9 @@ import (
 	"os"
 	"runtime"
 
-	. "github.com/zreigz/ws-vpn/vpn/utils"
-	client "github.com/zreigz/ws-vpn/vpn"
-	server "github.com/zreigz/ws-vpn/vpn"
+	. "github.com/fest-research/ws-vpn/vpn/utils"
+	client "github.com/fest-research/ws-vpn/vpn"
+	server "github.com/fest-research/ws-vpn/vpn"
 )
 
 var debug bool

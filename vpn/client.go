@@ -22,7 +22,7 @@ import (
 	"github.com/songgao/water"
 	"net"
 
-	. "github.com/zreigz/ws-vpn/vpn/utils"
+	. "github.com/fest-research/ws-vpn/vpn/utils"
 	"net/url"
 	"os"
 	"os/signal"
