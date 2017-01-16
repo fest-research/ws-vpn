@@ -1,6 +1,73 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [],
-	"rootPath": "github.com/zreigz/ws-vpn"
+	"package": [
+		{
+			"checksumSHA1": "izugIDe3XD8nvMuNicC1VUvjPgE=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "bb547c6c5c59732c29a3266d7125a84f6c3fce32",
+			"revisionTime": "2017-01-15T21:09:21Z"
+		},
+		{
+			"checksumSHA1": "BoXdUBWB8UnSlFlbnuTQaPqfCGk=",
+			"path": "github.com/op/go-logging",
+			"revision": "970db520ece77730c7e4724c61121037378659d9",
+			"revisionTime": "2016-03-15T20:05:05Z"
+		},
+		{
+			"checksumSHA1": "TXpUFvKVEIHH5//3sbRVv6wgSUU=",
+			"path": "github.com/scalingdata/gcfg",
+			"revision": "37aabad69cfd3d20b8390d902a8b10e245c615ff",
+			"revisionTime": "2014-07-29T18:38:56Z"
+		},
+		{
+			"checksumSHA1": "LV3NB8wXu26KZwc6pAStcxE+ESQ=",
+			"path": "github.com/scalingdata/gcfg/scanner",
+			"revision": "37aabad69cfd3d20b8390d902a8b10e245c615ff",
+			"revisionTime": "2014-07-29T18:38:56Z"
+		},
+		{
+			"checksumSHA1": "ExoT8iEbM4K8c4b3mQglfuPkxzw=",
+			"path": "github.com/scalingdata/gcfg/token",
+			"revision": "37aabad69cfd3d20b8390d902a8b10e245c615ff",
+			"revisionTime": "2014-07-29T18:38:56Z"
+		},
+		{
+			"checksumSHA1": "hmKm+qy874Gta477MI+wlzxG2JM=",
+			"path": "github.com/scalingdata/gcfg/types",
+			"revision": "37aabad69cfd3d20b8390d902a8b10e245c615ff",
+			"revisionTime": "2014-07-29T18:38:56Z"
+		},
+		{
+			"checksumSHA1": "Dep3JbHjsib46xkK+gqcyfHEAJE=",
+			"path": "github.com/songgao/water",
+			"revision": "37d6645a51c829ab14e7b16c2866ec78259d528e",
+			"revisionTime": "2017-01-09T03:29:40Z"
+		},
+		{
+			"checksumSHA1": "9Pcc1IiRqPxEcxU2KMpkrcEGb3k=",
+			"path": "golang.org/x/net/bpf",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "ph4zMZHCWvSjVOZwoxbks+nG0/M=",
+			"path": "golang.org/x/net/internal/iana",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "LVY0kRV5iwxDS3XQaBWxdzPemyc=",
+			"path": "golang.org/x/net/internal/netreflect",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "825oQJv9jmZu0T9YSXnDHtmeNUY=",
+			"path": "golang.org/x/net/ipv4",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		}
+	],
+	"rootPath": "github.com/fest-research/ws-vpn"
 }
